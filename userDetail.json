@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Rubini",
+    "email": "rubi@gmail.com",
+    "address": "New Kubera Nagar, Madipakkam, Chennai - 600091",
+    "phone": "8437866612",
+  },
+  {
+    "id": 2,
+    "name": "Srinivasan",
+    "email": "sri@gmail.com",
+    "address": "New Kubera Nagar, Madipakkam, Chennai - 600091",
+    "phone": "9979969954",
+  },
+  {
+    "id": 3,
+    "name": "Srishti",
+    "email": "srishti@gmail.com",
+    "address": "Ram Nagar, Mango, Jamshedpur - 630017",
+    "phone": "8052134223",
+  },
+  {
+    "id": 4,
+    "name": "venkat",
+    "email": "venki@gmail.com",
+    "address": "Krishna Nagar, Gugai, Salem - 636005",
+    "phone": "7689543210",
+  },
+  {
+    "id": 5,
+    "name": "Ramani",
+    "email": "ramani@gmail.com",
+    "address": "Amman Koil Street, Shevapet, Salem - 636001",
+    "phone": "9547234561",
+  }
+]
